@@ -4,6 +4,7 @@
  * Generalize framework detection functionality.
  *
  * @author Bao Nguyen <contact@nqbao.com>
+ * @author tabosque https://github.com/tabosque
  * @license GPLv3
  **/
 
